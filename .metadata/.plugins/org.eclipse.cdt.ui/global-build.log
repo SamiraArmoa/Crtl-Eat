@@ -1,0 +1,5 @@
+12:39:00 **** Incremental Build of configuration Debug for project Crtl+Eat ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o Crtl+Eat.exe main.o 
+Info: Nothing to build for Crtl+Eat
